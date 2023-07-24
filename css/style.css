@@ -1,0 +1,21 @@
+* {
+    font-family: 'Indie Flower', cursive;
+    text-align: justify;
+    background-color: #F5F0BB;
+}
+
+h1, h2 {
+    color: #025464;
+}
+
+h4 { 
+    color: #526D82;
+}
+
+p {
+    font-weight: bolder;
+}
+
+li {
+    font-weight: bolder;
+}
